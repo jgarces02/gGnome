@@ -16,14 +16,7 @@ Remotes:
   github::mskilab/gTrack,
   github::mskilab/fishHook,
   github::mskilab/bamUtils,
-  github::mskilab/gChain,
-  bioc::MatrixGenerics,
-  bioc::rtracklayer,
-  bioc::IRanges,
-  bioc::BiocGenerics,
-  bioc::S4Vectors,
-  bioc::GenomicRanges,
-  bioc::GenomeInfoDb
+  github::mskilab/gChain
 Depends:
     R (>= 4.0.0),
     R6,
