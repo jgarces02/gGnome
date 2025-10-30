@@ -17,7 +17,6 @@ Remotes:
   github::mskilab/fishHook,
   github::mskilab/bamUtils,
   github::mskilab/gChain,
-  bioc::VariantAnnotation,
   bioc::MatrixGenerics,
   bioc::rtracklayer,
   bioc::IRanges,
